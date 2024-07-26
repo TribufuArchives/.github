@@ -1,1 +1,1 @@
-# Tribufu Archives
+# Tribufu
